@@ -1,5 +1,7 @@
 # Guia de Ajuda do AD
 
+
+
 -   [**Active Directory Domain Services**](https://docs.microsoft.com/pt-br/windows-server/identity/ad-ds/active-directory-domain-services)
 -   [Novidades no Active Directory Domain Services](https://docs.microsoft.com/pt-br/windows-server/identity/whats-new-active-directory-domain-services)
 -   [Introdução ao AD DS](https://docs.microsoft.com/pt-br/windows-server/identity/ad-ds/ad-ds-getting-started)
