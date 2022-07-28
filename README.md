@@ -1,6 +1,6 @@
 # Guia de Ajuda do AD
 
-
+<a href="url"><img src="https://info.varonis.com/hubfs/Blog_ActiveDirectory_BlogHero_202202_V1.png" align="center" height="248" width="688" ></a>
 
 -   [**Active Directory Domain Services**](https://docs.microsoft.com/pt-br/windows-server/identity/ad-ds/active-directory-domain-services)
 -   [Novidades no Active Directory Domain Services](https://docs.microsoft.com/pt-br/windows-server/identity/whats-new-active-directory-domain-services)
